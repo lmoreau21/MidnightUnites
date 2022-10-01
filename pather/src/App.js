@@ -51,7 +51,7 @@ function App() {
   return (
     <Routes>
       <Route path="/Audit" element={<MacBookPro161/>}/>
-      <Route path="/" element={<Submission />} />
+      <Route path="/MidnightUnites" element={<Submission />} />
     </Routes>
   );
 }

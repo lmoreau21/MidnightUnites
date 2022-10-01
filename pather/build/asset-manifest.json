@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MidnightUnites/static/css/main.6fc8c1c0.css",
+    "main.js": "/MidnightUnites/static/js/main.b8651619.js",
+    "index.html": "/MidnightUnites/index.html",
+    "main.6fc8c1c0.css.map": "/MidnightUnites/static/css/main.6fc8c1c0.css.map",
+    "main.b8651619.js.map": "/MidnightUnites/static/js/main.b8651619.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fc8c1c0.css",
+    "static/js/main.b8651619.js"
+  ]
+}
