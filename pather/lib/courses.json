@@ -1,0 +1,582 @@
+{
+    "CSC1240": {
+       "courseDepartment": "CSC",
+       "courseNumber": 1240,
+       "courseTitle": "Stats & Graph Matlab",
+       "courseHours": 3,
+       "courseDescription": "Introduction to MATLAB programming with applications in statistics and graphics.",
+       "coursePreReq": "",
+       "courseDualReq": "",
+       "courseCategory": "Engineering"
+    },
+    "CSC1250": {
+       "courseDepartment": "CSC",
+       "courseNumber": 1250,
+       "courseTitle": "Introduction to Programming",
+       "courseHours": 3,
+       "courseDescription": "Fundamentals of problem solving, program design, algorithms and programming using a high-level language.",
+       "coursePreReq": "",
+       "courseDualReq": "",
+       "courseCategory": ""
+    },
+    "CSC1253": {
+       "courseDepartment": "CSC",
+       "courseNumber": 1253,
+       "courseTitle": "Computer Science With C++",
+       "courseHours": 3,
+       "courseDescription": "Fundamentals of algorithm development, program design and structured programming using an object-oriented language.",
+       "coursePreReq": "",
+       "courseDualReq": "MATH1550|MATH1431",
+       "courseCategory": "Engineering"
+    },
+    "CSC1254": {
+       "courseDepartment": "CSC",
+       "courseNumber": 1254,
+       "courseTitle": "Computer Science II With C++",
+       "courseHours": 3,
+       "courseDescription": "Develops solutions to problems using an object-oriented approach and emphasizes the concepts of recursion; dynamic memory; data structures (lists, stacks, queues, trees); exception handling.",
+       "coursePreReq": "CSC1253",
+       "courseDualReq": "MATH1550",
+       "courseCategory": "Engineering"
+    },
+    "CSC1350": {
+       "courseDepartment": "CSC",
+       "courseNumber": 1350,
+       "courseTitle": "Computer Science I for Majors",
+       "courseHours": 4,
+       "courseDescription": "Fundamentals of algorithm development, program design and structured programming using an object-oriented language.",
+       "coursePreReq": "",
+       "courseDualReq": "MATH1022|MATH1023|MATH1550|MATH1551|MATH1552|Math1553",
+       "courseCategory": "Engineering"
+    },
+    "CSC1351": {
+       "courseDepartment": "CSC",
+       "courseNumber": 1351,
+       "courseTitle": "Computer Science II for Majors",
+       "courseHours": 4,
+       "courseDescription": "Develops solutions to problems using an object-oriented approach and emphasizes the concepts of recursion; dynamic memory; data structures (lists, stacks, queues, trees); exception handling.",
+       "coursePreReq": "CSC1350",
+       "courseDualReq": "MATH1550",
+       "courseCategory": "Engineering"
+    },
+    "CSC2259": {
+       "courseDepartment": "CSC",
+       "courseNumber": 2259,
+       "courseTitle": "Discrete Structures",
+       "courseHours": 3,
+       "courseDescription": "Set algebra including mappings and relations; algebraic structures including semigroups and groups; elements of the theory of directed and undirected graphs; Boolean algebra and propositional logic; these structures applied to various areas of computer science.",
+       "coursePreReq": "",
+       "courseDualReq": "CSC1254|CSC1351&MATH1552",
+       "courseCategory": "Engineering"
+    },
+    "CSC2262": {
+       "courseDepartment": "CSC",
+       "courseNumber": 2262,
+       "courseTitle": "Numerical Methods",
+       "courseHours": 3,
+       "courseDescription": "Computer- oriented methods for solving numerical problems in science and engineering; numerical solutions to systems of simultaneous linear equations, nonlinear algebraic equations (root solving), differentiation and integration, ordinary differential equations, interpolation and curve fitting.",
+       "coursePreReq": "CSC1254|CSC1351",
+       "courseDualReq": "MATH2090",
+       "courseCategory": "Engineering"
+    },
+    "CSC2362": {
+       "courseDepartment": "CSC",
+       "courseNumber": 2362,
+       "courseTitle": "Introduction to Cybersecurity and Cyber Defense",
+       "courseHours": 3,
+       "courseDescription": "Broad overview and basic principles of cybersecurity theory and practice: threats, vulnerabilities, and mitigation strategies.",
+       "coursePreReq": "CSC1350|CSC1253",
+       "courseDualReq": "",
+       "courseCategory": "Engineering"
+    },
+    "CSC2463": {
+       "courseDepartment": "CSC",
+       "courseNumber": 2463,
+       "courseTitle": "Programming Digital Media",
+       "courseHours": 3,
+       "courseDescription": "Programming concepts motivated by digital media applications: real-time graphics, audio processing, simple hardware devices, integration of technologies into interactive systems.",
+       "coursePreReq": "MATH1021",
+       "courseDualReq": "CSC1253|CSC1350|IE2060|ART2050|MUS2732",
+       "courseCategory": "Engineering"
+    },
+    "CSC2533": {
+       "courseDepartment": "CSC",
+       "courseNumber": 2533,
+       "courseTitle": "Introduction to Engineering Computation",
+       "courseHours": 3,
+       "courseDescription": "Problem solving techniques and structured programming tools for engineering synthesis and analysis; application of symbolic solvers and technical computing toolkits.",
+       "coursePreReq": "MATH1021",
+       "courseDualReq": "CSC1253|CSC1350|IE2060|ART2050|MUS2732",
+       "courseCategory": "Engineering"
+    },
+    "CSC2610": {
+       "courseDepartment": "CSC",
+       "courseNumber": 2610,
+       "courseTitle": "Cloud & Web Programming",
+       "courseHours": 3,
+       "courseDescription": "Characteristics, theory and fundamentals of cloud computing and related technologies; cloud types, services and architectures; principles of application protocols and collaborative web platforms; applications in the areas of mobile and social computing; lightweight programming models; socket programming.",
+       "coursePreReq": "CSC1254|CSC1351|ISDS3107",
+       "courseDualReq": "",
+       "courseCategory": "Engineering"
+    },
+    "CSC2730": {
+       "courseDepartment": "CSC",
+       "courseNumber": 2730,
+       "courseTitle": "Data Science and Analytics",
+       "courseHours": 3,
+       "courseDescription": "Effective and efficient strategies for data capture; the relational database model, queries, and web programming; data mining and data warehousing process; descriptive statistics and visualization techniques; introduction to computational analysis and multidimensional analysis.",
+       "coursePreReq": "CSC1254|CSC1351|ISDS3107",
+       "courseDualReq": "",
+       "courseCategory": "Engineering"
+    },
+    "CSC3102": {
+       "courseDepartment": "CSC",
+       "courseNumber": 3102,
+       "courseTitle": "Advanced Data Structures",
+       "courseHours": 3,
+       "courseDescription": "Description and utilization of formal ADT representations, especially those on lists, sets, and graphs; time and space analysis of recursive and nonrecursive algorithms, including graph and sorting algorithms; algorithm design techniques.",
+       "coursePreReq": "CSC1254|CSC1351|ISDS3107",
+       "courseDualReq": "",
+       "courseCategory": "Engineering"
+    },
+    "CSC3200": {
+       "courseDepartment": "CSC",
+       "courseNumber": 3200,
+       "courseTitle": "Ethics In Computing",
+       "courseHours": 1,
+       "courseDescription": "Introduction to ethics theory, ethical decision-making as it relates to the computing professional, licensing, intellectual property, conflicts of interest, freedom of information and privacy, security.",
+       "coursePreReq": "ENGL1005|ENGL2000|HNRS2000&CSC3102",
+       "courseDualReq": "",
+       "courseCategory": "Engineering"
+    },
+    "CSC3304": {
+       "courseDepartment": "CSC",
+       "courseNumber": 3304,
+       "courseTitle": "Intro To System Programming",
+       "courseHours": 3,
+       "courseDescription": "Introduction to systems programming, using the C programming language: OS command and shell basics, process creation and control, system calls, signals, concurrency and virtualization.",
+       "coursePreReq": "",
+       "courseDualReq": "CSC3102",
+       "courseCategory": "Engineering"
+    },
+    "CSC3380": {
+       "courseDepartment": "CSC",
+       "courseNumber": 3380,
+       "courseTitle": "Object Oriented Design",
+       "courseHours": 3,
+       "courseDescription": "Advanced object oriented software development; emphasis on the use of the unified modeling language as a design tool.",
+       "coursePreReq": "CSC1254|CSC1351",
+       "courseDualReq": "",
+       "courseCategory": "Engineering"
+    },
+    "CSC3501": {
+       "courseDepartment": "CSC",
+       "courseNumber": 3501,
+       "courseTitle": "Computer Organization and Design",
+       "courseHours": 3,
+       "courseDescription": "Computer arithmetic, design of high-speed adders and multipliers, CPU concepts, instruction fetching and decoding, hardwired control, microprogramming control, main memory, I/O organization, assembly language programming techniques, CPU instruction sets and addressing modes.",
+       "coursePreReq": "CSC2259",
+       "courseDualReq": "",
+       "courseCategory": "Engineering"
+    },
+    "CSC3730": {
+       "courseDepartment": "CSC",
+       "courseNumber": 3730,
+       "courseTitle": "Machine Learning and Data Analytics",
+       "courseHours": 3,
+       "courseDescription": "Machine learning principles and methods; advanced analytics for data; techniques for optimization and visualization; applications related to organizational performance and operational efficiency.",
+       "coursePreReq": "CSC3102&IE3302|EE3150|EXST4050|MATH3355",
+       "courseDualReq": "",
+       "courseCategory": "Engineering"
+    },
+    "CSC4101": {
+       "courseDepartment": "CSC",
+       "courseNumber": 4101,
+       "courseTitle": "Programming Languages",
+       "courseHours": 3,
+       "courseDescription": "Principles of programming language design; specification of syntax and semantics; underlying implementation of block structured languages; dynamic memory allocation for strings, lists and arrays; imperative versus applicative programming; logic programming; modern programming languages.",
+       "coursePreReq": "CSC3102",
+       "courseDualReq": "",
+       "courseCategory": "Engineering"
+    },
+    "CSC4103": {
+       "courseDepartment": "CSC",
+       "courseNumber": 4103,
+       "courseTitle": "Operating Systems",
+       "courseHours": 3,
+       "courseDescription": "Design techniques, process management, processor scheduling; deadlocks, memory management, secondary memory management, file management; I/O systems, Unix systems.",
+       "coursePreReq": "CSC3102",
+       "courseDualReq": "",
+       "courseCategory": "Engineering"
+    },
+    "CSC4263": {
+       "courseDepartment": "CSC",
+       "courseNumber": 4263,
+       "courseTitle": "Video Game Design",
+       "courseHours": 3,
+       "courseDescription": "The essentials of video game design and implementation, including planning, graphics, sound, programming and testing. Focus is on a semester-long, small-team, interdisciplinary project to develop and present a complete full-featured game.",
+       "coursePreReq": "ART2050|CSC3102|MUS2732",
+       "courseDualReq": "",
+       "courseCategory": "Engineering"
+    },
+    "CSC4330": {
+       "courseDepartment": "CSC",
+       "courseNumber": 4330,
+       "courseTitle": "Software System Development",
+       "courseHours": 3,
+       "courseDescription": "Software requirements analysis; design representation, programming methodologies; verification, validation, maintenance and software planning.",
+       "coursePreReq": "CSC3102&CSC3380",
+       "courseDualReq": "",
+       "courseCategory": "Engineering"
+    },
+    "CSC4332": {
+       "courseDepartment": "CSC",
+       "courseNumber": 4332,
+       "courseTitle": "Software Quality & Testing",
+       "courseHours": 3,
+       "courseDescription": "Concepts of software testing and quality assurance, including test generation, test oracles, black box and white box testing, integration testing, test coverage, regression testing, mutation testing, program analysis, test driven development, test automation, and test prioritization.",
+       "coursePreReq": "",
+       "courseDualReq": "CSC 4330",
+       "courseCategory": "Engineering"
+    },
+    "CSC4343": {
+       "courseDepartment": "CSC",
+       "courseNumber": 4343,
+       "courseTitle": "Applied Deep Learning",
+       "courseHours": 3,
+       "courseDescription": "Foundation of deep neural networks; multilayer perceptron, convolutional and recurrent neural networks; optimization for neutral-network training; software stacks and frameworks used to implement deep neural networks; application of deep neural networks in real world scenarios.",
+       "coursePreReq": "CSC3102&CSC2730|CSC3730",
+       "courseDualReq": "",
+       "courseCategory": "Engineering"
+    },
+    "CSC4351": {
+       "courseDepartment": "CSC",
+       "courseNumber": 4351,
+       "courseTitle": "Compiler Construction",
+       "courseHours": 3,
+       "courseDescription": "Program language structures, translation, loading, execution and storage allocation; compilation of simple expressions and statements; organization of compiler including compile-time and run-time symbol tables, lexical scan, syntax scan, object code generation, error diagnostics, object code optimization techniques and overall design; use of compiler writing languages and bootstrapping.",
+       "coursePreReq": "CSC4101",
+       "courseDualReq": "",
+       "courseCategory": "Engineering"
+    },
+    "CSC4360": {
+       "courseDepartment": "CSC",
+       "courseNumber": 4360,
+       "courseTitle": "Malware Analysis/Rev",
+       "courseHours": 3,
+       "courseDescription": "Legal and ethical issues; categorization of malware; static methods for malware analysis and reverse engineering, including disassembly and decompilation; dynamic analysis strategies including debugging, sandboxes, and binary instrumentation circumvention of obfuscation and anti-analysis techniques.",
+       "coursePreReq": "CSC4103",
+       "courseDualReq": "",
+       "courseCategory": "Engineering"
+    },
+    "CSC4362": {
+       "courseDepartment": "CSC",
+       "courseNumber": 4362,
+       "courseTitle": "Software Vulnerabilities and Exploitation",
+       "courseHours": 3,
+       "courseDescription": "Advanced topics in software vulnerabilities, software exploitation techniques, remote vs. local exploits, user-space and kernel-space exploit mitigation strategies.",
+       "coursePreReq": "CSC4103",
+       "courseDualReq": "",
+       "courseCategory": "Engineering"
+    },
+    "CSC4402": {
+       "courseDepartment": "CSC",
+       "courseNumber": 4402,
+       "courseTitle": "Intro Databse Management Systems",
+       "courseHours": 3,
+       "courseDescription": "Fundamentals of the relational data model; the SQL query language; E-R modeling and database design theory; storage structures and query optimization; transaction processing and concurrency control.",
+       "coursePreReq": "CSC3102",
+       "courseDualReq": "",
+       "courseCategory": "Engineering"
+    },
+    "CSC4444": {
+       "courseDepartment": "CSC",
+       "courseNumber": 4444,
+       "courseTitle": "Artificial Intelligence",
+       "courseHours": 3,
+       "courseDescription": "Theorem proving and inferencing techniques, production systems, knowledge representation, approximate reasoning, nonmonotonic reasoning, natural language understanding, scene analysis, planning, game playing and learning.",
+       "coursePreReq": "CSC3102",
+       "courseDualReq": "",
+       "courseCategory": "Engineering"
+    },
+    "CSC4501": {
+       "courseDepartment": "CSC",
+       "courseNumber": 4501,
+       "courseTitle": "Computer Networks",
+       "courseHours": 3,
+       "courseDescription": "Introduction to local, metropolitan and wide area networks using the standard OSI reference model as a framework; introduction to the Internet protocol suite and network tools and programming; discussion of various networking technologies.",
+       "coursePreReq": "CSC3102",
+       "courseDualReq": "",
+       "courseCategory": "Engineering"
+    },
+    "CSC4512": {
+       "courseDepartment": "CSC",
+       "courseNumber": 4512,
+       "courseTitle": "Optimization",
+       "courseHours": 3,
+       "courseDescription": "Optimization as a modeling tool with emphasis on modeling approaches, fundamental algorithms and applications in many diverse domains.",
+       "coursePreReq": "CSC4512",
+       "courseDualReq": "",
+       "courseCategory": "Engineering"
+    },
+    "CSC4562": {
+       "courseDepartment": "CSC",
+       "courseNumber": 4562,
+       "courseTitle": "Mobile Sec & Crypto",
+       "courseHours": 3,
+       "courseDescription": "Principles, techniques and methods for securing mobile systems; cryptographic tools and protocols for ensuring information protection.",
+       "coursePreReq": "CSC4103&MATH2090",
+       "courseDualReq": "",
+       "courseCategory": "Engineering"
+    },
+    "CSC4610": {
+       "courseDepartment": "CSC",
+       "courseNumber": 4610,
+       "courseTitle": "Cloud Systems and Virtualization",
+       "courseHours": 3,
+       "courseDescription": "Advanced problems and challenges in defining, developing, and building a cloud system; virtualization; open source computing; provisioning; fairness, reliability, security, and monitoring.",
+       "coursePreReq": "CSC2610&CSC4103",
+       "courseDualReq": "CSC4501",
+       "courseCategory": "Engineering"
+    },
+    "CSC4740": {
+       "courseDepartment": "CSC",
+       "courseNumber": 4740,
+       "courseTitle": "Big Data Tech",
+       "courseHours": 3,
+       "courseDescription": "Advanced analytics and management techniques applied to large-scale datasets; Hadoop/MapReduce, NoSQL and cloud technologies; applied data mining techniques; applications to social, web and mobile data, and bioinformatics.",
+       "coursePreReq": "CSC2730",
+       "courseDualReq": "CSC4402",
+       "courseCategory": "Engineering"
+    },
+    "CSC4762": {
+       "courseDepartment": "CSC",
+       "courseNumber": 4762,
+       "courseTitle": "Blockchain and Cryptocurrency",
+       "courseHours": 3,
+       "courseDescription": "An in-depth exploration of various consensus, hashing, and cryptography algorithms, as well as the development of decentralized applications (Dapps) over blockchains and cryptocurrencies.",
+       "coursePreReq": "CSC3102",
+       "courseDualReq": "",
+       "courseCategory": "Engineering"
+    },
+    "MATH1021": {
+       "courseDepartment": "MATH",
+       "courseNumber": 1021,
+       "courseTitle": "College Algebra",
+       "courseHours": 3,
+       "courseDescription": "Solving equations and inequalities; function properties and graphs with transformations; inverse functions; linear, quadratic, polynomial, rational, exponential and logarithmic functions with applications; systems of equations.",
+       "coursePreReq": "",
+       "courseDualReq": "",
+       "courseCategory": "Math"
+    },
+    "MATH1550": {
+       "courseDepartment": "MATH",
+       "courseNumber": 1550,
+       "courseTitle": "Differential and Integral Calculus",
+       "courseHours": 5,
+       "courseDescription": "Limits, derivatives, and integrals of algebraic, exponential, logarithmic, and trigonometric functions, with applications.�",
+       "coursePreReq": "",
+       "courseDualReq": "",
+       "courseCategory": "Math"
+    },
+    "MATH1551": {
+       "courseDepartment": "MATH",
+       "courseNumber": 1551,
+       "courseTitle": "Honors Differential and Integral Calculus",
+       "courseHours": 5,
+       "courseDescription": "Limits, derivatives, and integrals of algebraic, exponential, logarithmic, and trigonometric functions, with applications. ",
+       "coursePreReq": "",
+       "courseDualReq": "",
+       "courseCategory": "Math"
+    },
+    "MATH1552": {
+       "courseDepartment": "MATH",
+       "courseNumber": 1552,
+       "courseTitle": "Analytic Geometry and Calculus II",
+       "courseHours": 4,
+       "courseDescription": "Techniques of integration, parametric�equations, analytical geometry,�polar coordinates, infinite series, vectors in low dimensions; introduction to differential equations and partial derivatives.",
+       "coursePreReq": "MATH1500|MATH1551",
+       "courseDualReq": "",
+       "courseCategory": "Math"
+    },
+    "MATH1553": {
+       "courseDepartment": "MATH",
+       "courseNumber": 1553,
+       "courseTitle": "Honors Analytic Geometry and Calculus II",
+       "courseHours": 4,
+       "courseDescription": "Techniques of integration, parametric�equations, analytical geometry,�polar coordinates, infinite series, vectors in low dimensions; introduction to differential equations and partial derivatives.",
+       "coursePreReq": "MATH1550|MATH1551",
+       "courseDualReq": "",
+       "courseCategory": "Math"
+    },
+    "MATH2090": {
+       "courseDepartment": "MATH",
+       "courseNumber": 2090,
+       "courseTitle": "Elementary Differential Equations and Linear Algebra�",
+       "courseHours": 4,
+       "courseDescription": "Introduction to first order differential equations, linear differential equations with constant coefficients, and systems of differential equations; vector spaces, linear transformations, matrices, determinants, linear dependence, bases, systems of equations, eigenvalues, eigenvectors, and Laplace transforms.",
+       "coursePreReq": "MATH1552|MATH1553",
+       "courseDualReq": "",
+       "courseCategory": "Math"
+    },
+    "ENGL1001": {
+       "courseDepartment": "ENGL",
+       "courseNumber": 1001,
+       "courseTitle": "English Composition",
+       "courseHours": 3,
+       "courseDescription": "Introduction to analytical writing and research-based inquiry.",
+       "coursePreReq": "",
+       "courseDualReq": "",
+       "courseCategory": "Humanities"
+    },
+    "ENGL2000": {
+       "courseDepartment": "ENGL",
+       "courseNumber": 2000,
+       "courseTitle": "English Composition",
+       "courseHours": 3,
+       "courseDescription": "Practice in argument writing and research-based inquiry.",
+       "coursePreReq": "ENGL1001|HNRS2000",
+       "courseDualReq": "",
+       "courseCategory": "Humanities"
+    },
+    "IE3302": {
+       "courseDepartment": "IE",
+       "courseNumber": 3302,
+       "courseTitle": "Engineering Statistics",
+       "courseHours": 3,
+       "courseDescription": "Probability, discrete and continuous distributions, functions of random variables, estimation theory, tests of hypotheses including goodness-of-fit and independence.",
+       "coursePreReq": "MATH1552&PHYS2122|CSC2259",
+       "courseDualReq": "",
+       "courseCategory": "Engineering"
+    },
+    "BIOL1001": {
+       "courseDepartment": "BIOL",
+       "courseNumber": 1001,
+       "courseTitle": "General Biology",
+       "courseHours": 3,
+       "courseDescription": "For nonscience majors. Not for degree credit for a student majoring in a biological science.�General concepts in cell biology, genetics, ecology and evolution.",
+       "coursePreReq": "",
+       "courseDualReq": "",
+       "courseCategory": "Science"
+    },
+    "BIOL 1002": {
+       "courseDepartment": "BIOL ",
+       "courseNumber": 1002,
+       "courseTitle": "General Biology",
+       "courseHours": 3,
+       "courseDescription": "Diversity, interactions and life histories of microorganisms, fungi, plants and animals.",
+       "coursePreReq": "BIOL 1001|BIOL1201",
+       "courseDualReq": "",
+       "courseCategory": "Science"
+    },
+    "BIOL1201": {
+       "courseDepartment": "BIOL",
+       "courseNumber": 1201,
+       "courseTitle": "Biology for Science Majors |",
+       "courseHours": 3,
+       "courseDescription": "Primarily for students in science, agriculture or education.�General concepts in cellular structure, cellular metabolism, cellular communication and genetics.",
+       "coursePreReq": "",
+       "courseDualReq": "",
+       "courseCategory": "Science"
+    },
+    "BIOL1005": {
+       "courseDepartment": "BIOL",
+       "courseNumber": 1005,
+       "courseTitle": "Introductory Biology Laboratory",
+       "courseHours": 2,
+       "courseDescription": "Basic principles of�biology including cell�biology, genetics, ecology, evolution, diversity and systems physiology.",
+       "coursePreReq": "BIOL1001",
+       "courseDualReq": "BIOL1002",
+       "courseCategory": "Science"
+    },
+    "ASTR1101": {
+       "courseDepartment": "ASTR",
+       "courseNumber": 1101,
+       "courseTitle": "The Solar System",
+       "courseHours": 3,
+       "courseDescription": "Fundamental principles of the solar system.",
+       "coursePreReq": "MATH1021",
+       "courseDualReq": "",
+       "courseCategory": "Science"
+    },
+    "ART1001": {
+       "courseDepartment": "ART",
+       "courseNumber": 1001,
+       "courseTitle": "Introuction to Fine Arts",
+       "courseHours": 3,
+       "courseDescription": "Fundamental problems and concepts of�art�in the fields of design, sculpture, graphics, painting and ceramics, as related to home, community, religion, commerce and industry.",
+       "coursePreReq": "",
+       "courseDualReq": "",
+       "courseCategory": "Art"
+    },
+    "MUS1600": {
+       "courseDepartment": "MUS",
+       "courseNumber": 1600,
+       "courseTitle": "American Popular Music",
+       "courseHours": 3,
+       "courseDescription": "Surveys the history of American popular�music from artistic, cultural, political, and economic perspectives.",
+       "coursePreReq": "",
+       "courseDualReq": "",
+       "courseCategory": "Art"
+    },
+    "AGRI1005": {
+       "courseDepartment": "AGRI",
+       "courseNumber": 1005,
+       "courseTitle": "Science and Society",
+       "courseHours": 3,
+       "courseDescription": "Principles of biology applied in a sociological context; relationships among scientific inquiry, ethics,�social�values and public policies for the beginning�science�and nonscience�student.",
+       "coursePreReq": "",
+       "courseDualReq": "",
+       "courseCategory": "Social Science"
+    },
+    "HIST1001": {
+       "courseDepartment": "HIST",
+       "courseNumber": 1001,
+       "courseTitle": "Western Civilization to 1500",
+       "courseHours": 3,
+       "courseDescription": "Ideas, trends and institutions in western civilization from earliest times to the Reformation.",
+       "coursePreReq": "",
+       "courseDualReq": "",
+       "courseCategory": "Social Science"
+    },
+    "HIST2020": {
+       "courseDepartment": "HIST",
+       "courseNumber": 2020,
+       "courseTitle": "Medieval Europe",
+       "courseHours": 3,
+       "courseDescription": "Social, cultural, religious and political�history of medieval Europe from the reign of Constantine in the fourth century to the fall of Constantinople in 1453.",
+       "coursePreReq": "",
+       "courseDualReq": "",
+       "courseCategory": "Social Science"
+    },
+    "ECON2000": {
+       "courseDepartment": "ECON",
+       "courseNumber": 2000,
+       "courseTitle": "Principles of Microeconomics",
+       "courseHours": 3,
+       "courseDescription": "Study of how households and firms make decisions and how they interact in specific markets; theories of production price determination, trade, externalities and public goods.",
+       "coursePreReq": "",
+       "courseDualReq": "",
+       "courseCategory": "Social Science"
+    },
+    "CMST2060": {
+       "courseDepartment": "CMST",
+       "courseNumber": 2060,
+       "courseTitle": "Public Speaking",
+       "courseHours": 3,
+       "courseDescription": "Theory and skills needed by the effective communicator and critical consumer of speech; analysis of other speakers and practice in speaking.",
+       "coursePreReq": "",
+       "courseDualReq": "",
+       "courseCategory": "Humanities"
+    },
+    "CMST2061": {
+       "courseDepartment": "CMST",
+       "courseNumber": 2061,
+       "courseTitle": "Communication for Buisness and the Profession",
+       "courseHours": 3,
+       "courseDescription": "Communication used in business and professional organizations; proposal presentations, group decision making, parliamentary procedure and interviewing.",
+       "coursePreReq": "",
+       "courseDualReq": "",
+       "courseCategory": "Humanities"
+    }
+ }
