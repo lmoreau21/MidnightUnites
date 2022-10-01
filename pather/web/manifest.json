@@ -1,9 +1,9 @@
 {
     "name": "pather",
     "short_name": "pather",
-    "start_url": ".",
+    "start_url": "https://lmoreau21.github.io/Midnight-Unites/",
     "display": "standalone",
-    "background_color": "#0175C2",
+    "background_color": "#ffeed0",
     "theme_color": "#0175C2",
     "description": "A new Flutter project.",
     "orientation": "portrait-primary",
