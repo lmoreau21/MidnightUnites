@@ -1,6 +1,5 @@
 import React from "react";
-
-import { Column, Stack, Row, Text, Button, List, Line, Img } from "./components";
+import {Column, Stack, Row, Text, Button, List, Line, Img} from "../../components";
 
 const MacBookPro16OnePage = () => {
   return (
