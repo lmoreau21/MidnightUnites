@@ -9,10 +9,9 @@ const ProjectRoutes = () => {
   return (
     <Router>
       <Routes>
-        <Route path="/MidnightUnites/macbookpro16one" element={<Home />} />
+        <Route path="/MidnightUnites" element={<Home />} />
         <Route path="*" element={<NotFound />} />
-        <Route path="/macbookpro16one" element={<MacBookPro16One />} />
-        <Route path="/frameone" element={<FrameOne />} />
+        <Route path="/home" element={<MacBookPro16One />} />
       </Routes>
     </Router>
   );
