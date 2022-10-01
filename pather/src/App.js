@@ -7,6 +7,7 @@ import {
 } from "react-router-dom";
 import MacBookPro161 from './pages/MacBookPro161';
 import { useEffect } from "react";
+import Submission from "./Submission";
 
 function App() {
 
@@ -49,8 +50,8 @@ function App() {
 
   return (
     <Routes>
-      <Route path="/" element={<MacBookPro161/>}/>
-
+      <Route path="/Audit" element={<MacBookPro161/>}/>
+      <Route path="/" element={<Submission />} />
     </Routes>
   );
 }
