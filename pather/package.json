@@ -1,6 +1,10 @@
 {
     "name": "pather",
+<<<<<<< HEAD
     "homepage": "https://lmoreau21.github.io/MidnightUnites/",
+=======
+    "homepage":"https://lmoreau21.github.io/MidnightUnites/",
+>>>>>>> 0648971ac5e5143c6db66fd85a3b5bf3d6b8332a
     "version": "0.1.0",
     "private": true,
     "dependencies": {
@@ -18,12 +22,24 @@
         "web-vitals": "^2.1.2"
     },
     "scripts": {
+<<<<<<< HEAD
         "predeploy": "npm run build",
         "deploy": "gh-pages -d build",
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject"
+=======
+      "predeploy": "npm run build",
+      "deploy": "gh-pages -d build",
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+      
+>>>>>>> 0648971ac5e5143c6db66fd85a3b5bf3d6b8332a
     },
     "eslintConfig": {},
     "browserslist": {

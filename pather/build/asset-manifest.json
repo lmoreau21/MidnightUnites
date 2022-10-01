@@ -1,5 +1,6 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.css": "/MidnightUnites/static/css/main.4c3e31d1.css",
     "main.js": "/MidnightUnites/static/js/main.c2bfb716.js",
     "index.html": "/MidnightUnites/index.html",
@@ -9,5 +10,16 @@
   "entrypoints": [
     "static/css/main.4c3e31d1.css",
     "static/js/main.c2bfb716.js"
+=======
+    "main.css": "/MidnightUnites/static/css/main.6fc8c1c0.css",
+    "main.js": "/MidnightUnites/static/js/main.b8651619.js",
+    "index.html": "/MidnightUnites/index.html",
+    "main.6fc8c1c0.css.map": "/MidnightUnites/static/css/main.6fc8c1c0.css.map",
+    "main.b8651619.js.map": "/MidnightUnites/static/js/main.b8651619.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fc8c1c0.css",
+    "static/js/main.b8651619.js"
+>>>>>>> 0648971ac5e5143c6db66fd85a3b5bf3d6b8332a
   ]
 }
