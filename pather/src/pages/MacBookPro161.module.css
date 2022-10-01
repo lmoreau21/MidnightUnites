@@ -1,0 +1,489 @@
+.takenFromThe2023Catalogue {
+position: absolute;
+top: 1087px;
+left: 11px;
+font-size: var(--font-size-xs);
+display: inline-block;
+width: 557px;
+height: 59px;
+}
+.hours14Div {
+position: absolute;
+top: 457px;
+left: 73px;
+display: inline-block;
+width: 163px;
+height: 102px;
+}
+.inProgressDiv {
+position: absolute;
+top: 59px;
+left: 96px;
+font-size: var(--font-size-lg);
+display: inline-block;
+width: 353px;
+height: 127px;
+}
+.nextSemesterDiv {
+position: absolute;
+top: 57px;
+left: 746px;
+font-size: var(--font-size-lg);
+display: inline-block;
+width: 569px;
+height: 127px;
+}
+.avaliableClassesDiv {
+position: absolute;
+top: 0px;
+left: 629px;
+font-size: 36px;
+display: inline-block;
+width: 589px;
+height: 127px;
+}
+.rectangleDiv {
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: var(--br-md);
+background-color: var(--color-gray);
+width: 159.76px;
+height: 74px;
+}
+.mATH2090Div {
+position: absolute;
+top: 54px;
+left: 855px;
+width: 185px;
+height: 74px;
+font-size: var(--font-size-sm);
+}
+.rectangleDiv1 {
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: var(--br-md);
+background-color: var(--color-gray);
+width: 155px;
+height: 80px;
+}
+.eNGL2000Div {
+position: absolute;
+top: 20.54px;
+left: 0.97px;
+display: inline-block;
+width: 160.03px;
+height: 39.69px;
+}
+.eNGLDiv {
+position: absolute;
+top: 55px;
+left: 662px;
+width: 161px;
+height: 80px;
+font-size: var(--font-size-sm);
+}
+.rectangleIcon {
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: var(--br-md);
+width: 159.76px;
+height: 74px;
+}
+.cSC3102Div1 {
+position: absolute;
+top: 22px;
+left: 4px;
+display: inline-block;
+}
+.cSC3102Div {
+position: absolute;
+top: 50px;
+left: 1072px;
+width: 159.76px;
+height: 74px;
+}
+.cSC3501Div {
+position: absolute;
+top: 50px;
+left: 1271px;
+width: 159.76px;
+height: 74px;
+}
+.techElectiveA1 {
+position: absolute;
+top: 18px;
+left: 3px;
+display: inline-block;
+width: 183px;
+height: 33px;
+}
+.lineDiv {
+position: absolute;
+top: 8.5px;
+left: 122.5px;
+border-right: 1px solid var(--color-black);
+box-sizing: border-box;
+width: 1px;
+height: 50px;
+}
+.polygonIcon {
+position: absolute;
+top: 9px;
+left: 136.21px;
+width: 18px;
+height: 14px;
+}
+.polygonIcon1 {
+position: absolute;
+width: calc(100% - 168px);
+top: 47.5px;
+right: 31.79px;
+left: 136.21px;
+max-width: 100%;
+overflow: hidden;
+height: 14px;
+}
+.techElectiveA {
+position: absolute;
+top: 55px;
+left: 213px;
+width: 186px;
+height: 74px;
+}
+.aRTDiv {
+position: absolute;
+top: 10px;
+left: 2px;
+display: inline-block;
+width: 125px;
+height: 33px;
+}
+.polygonIcon3 {
+position: absolute;
+width: calc(100% - 141.76px);
+top: 47.5px;
+right: 5.55px;
+left: 136.21px;
+max-width: 100%;
+overflow: hidden;
+height: 14px;
+}
+.gENARTDiv {
+position: absolute;
+top: 57px;
+left: 434px;
+width: 159.76px;
+height: 74px;
+font-size: var(--font-size-xs);
+}
+.humanityDiv {
+position: absolute;
+top: 14px;
+left: 6px;
+display: inline-block;
+width: 183px;
+height: 33px;
+}
+.polygonIcon5 {
+position: absolute;
+width: calc(100% - 171px);
+top: 47.5px;
+right: 34.79px;
+left: 136.21px;
+max-width: 100%;
+overflow: hidden;
+height: 14px;
+}
+.gENEDHUMANITY {
+position: absolute;
+top: 57px;
+left: 0px;
+width: 189px;
+height: 74px;
+font-size: 20px;
+}
+.avaliableClasses {
+position: absolute;
+top: 509px;
+left: 83px;
+width: 1430.76px;
+height: 135px;
+}
+.cSC3380Div1 {
+position: absolute;
+top: 21px;
+left: 0px;
+display: inline-block;
+}
+.cSC3380Div {
+position: absolute;
+top: 0px;
+left: 628px;
+width: 159.76px;
+height: 74px;
+}
+.cSC2262Div {
+position: absolute;
+top: 2px;
+left: 0px;
+width: 159.76px;
+height: 74px;
+}
+.cSC3304Div {
+position: absolute;
+top: 0px;
+left: 414px;
+width: 159.76px;
+height: 74px;
+}
+.cSC3304Div2 {
+position: absolute;
+top: 4px;
+left: 208px;
+width: 159.76px;
+height: 74px;
+}
+.blockedClasses {
+position: absolute;
+top: 775px;
+left: 459px;
+width: 787.76px;
+height: 78px;
+}
+.cSC2259Div {
+position: absolute;
+top: 375px;
+left: 132px;
+width: 159.76px;
+height: 74px;
+}
+.rectangleDiv5 {
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: var(--br-md);
+background-color: var(--color-tan-100);
+width: 159.76px;
+height: 74px;
+}
+.bIO1002Div {
+position: absolute;
+top: 21px;
+left: 2px;
+display: inline-block;
+width: 183px;
+height: 33px;
+}
+.mATH1552Div {
+position: absolute;
+top: 293px;
+left: 132px;
+width: 185px;
+height: 74px;
+font-size: var(--font-size-sm);
+}
+.cSC1351Div1 {
+position: absolute;
+top: 21px;
+left: 5px;
+display: inline-block;
+width: 183px;
+height: 33px;
+}
+.cSC1351Div {
+position: absolute;
+top: 211px;
+left: 134px;
+width: 188px;
+height: 74px;
+}
+.eNGL1001Div1 {
+position: absolute;
+top: 20px;
+left: 9px;
+display: inline-block;
+width: 164.95px;
+height: 36.71px;
+}
+.eNGL1001Div {
+position: absolute;
+top: 128px;
+left: 134px;
+width: 173.95px;
+height: 74px;
+font-size: var(--font-size-sm);
+}
+.rectangleDiv8 {
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: var(--br-md);
+background-color: #959d78;
+width: 125px;
+height: 55px;
+}
+.submitDiv {
+position: absolute;
+top: 7px;
+left: 10px;
+display: inline-block;
+width: 130px;
+height: 20px;
+}
+.submitButtonDiv {
+position: absolute;
+top: 423px;
+left: 1474px;
+width: 140px;
+height: 55px;
+}
+.rectangleDiv9 {
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: var(--br-md);
+background-color: var(--color-beige-100);
+width: 159.76px;
+height: 74px;
+}
+.bIO1001Div1 {
+position: absolute;
+top: 19px;
+left: 12px;
+display: inline-block;
+width: 164.95px;
+height: 36.71px;
+}
+.bIO1001Div {
+position: absolute;
+top: 971.26px;
+left: 1052.17px;
+width: 176.95px;
+height: 74px;
+}
+.rectangleDiv10 {
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: var(--br-md);
+background-color: var(--color-beige-100);
+width: 159.76px;
+height: 74px;
+transform: rotate(0.17deg);
+transform-origin: 0 0;
+}
+.cSC1350Div1 {
+position: absolute;
+top: 19.02px;
+left: 5.94px;
+display: inline-block;
+width: 164.95px;
+height: 36.71px;
+transform: rotate(0.17deg);
+transform-origin: 0 0;
+}
+.cSC1350Div {
+position: absolute;
+top: 971px;
+left: 865.22px;
+width: 170.95px;
+height: 74px;
+transform: rotate(0.17deg);
+transform-origin: 0 0;
+}
+.aSTR1101Div1 {
+position: absolute;
+top: 18px;
+left: 5.89px;
+display: inline-block;
+width: 164.95px;
+height: 36.71px;
+transform: rotate(0.17deg);
+transform-origin: 0 0;
+}
+.aSTR1101Div {
+position: absolute;
+top: 975px;
+left: 499.22px;
+width: 170.89px;
+height: 74px;
+transform: rotate(0.17deg);
+transform-origin: 0 0;
+font-size: var(--font-size-sm);
+}
+.mATH1550Div {
+position: absolute;
+top: 974px;
+left: 682.22px;
+width: 170.89px;
+height: 74px;
+transform: rotate(0.17deg);
+transform-origin: 0 0;
+font-size: var(--font-size-sm);
+}
+.lineIcon {
+position: absolute;
+top: 500px;
+left: 46px;
+width: 1594px;
+height: 183px;
+}
+.lineIcon1 {
+position: absolute;
+top: 945px;
+left: 63px;
+width: 1566.5px;
+height: 2px;
+}
+.lineIcon2 {
+position: absolute;
+top: 122px;
+left: 417px;
+width: 2.22px;
+height: 379.19px;
+}
+.completedDiv {
+position: absolute;
+top: 893px;
+left: 762.38px;
+font-size: 40px;
+display: inline-block;
+width: 353px;
+height: 127px;
+transform: rotate(0.17deg);
+transform-origin: 0 0;
+}
+.classesBlockedByPrereqs {
+position: absolute;
+top: 708px;
+left: 667px;
+display: inline-block;
+width: 562px;
+height: 67px;
+}
+.softwareEngineeringCSCSEG {
+position: absolute;
+top: 256px;
+left: 1720px;
+font-size: var(--font-size-lg);
+display: inline-block;
+width: 831px;
+height: 121px;
+transform: rotate(90deg);
+transform-origin: 0 0;
+}
+.macBookPro161 {
+position: relative;
+background-color: #fefae0;
+width: 100%;
+height: 1117px;
+overflow: hidden;
+text-align: left;
+font-size: var(--font-size-base);
+color: var(--color-black);
+font-family: var(--font-inter);
+}
+
